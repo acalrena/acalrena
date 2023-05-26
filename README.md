@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center">
    <h1>
       <img align="middle" src="https://raw.githubusercontent.com/dsrkafuu/sakana-widget/main/src/characters/chisato.png" width=85em height=85em />
